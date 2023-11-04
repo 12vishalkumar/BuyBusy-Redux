@@ -4,7 +4,7 @@
 ## Goal to achive
   ✍ Refactor the E-Commerce site to use Redux Toolkit for global state management and a centralized store to persist the state.
 
-### Click the Go Live button and see the live👉 [Go Live]
+### Click the Go Live button and see the live👉 [Go Live](https://buybusy.netlify.app)
 
 ## Installation
 - Install the required dependencies using npm install.
